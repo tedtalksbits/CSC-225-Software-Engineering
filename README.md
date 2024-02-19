@@ -30,6 +30,14 @@
 
 ## User Guide
 
-1. [Step 1]
-2. [Step 2]
-3. [Step 3]
+1. Install packages
+
+```bash
+npm install
+```
+
+2. Run the application
+
+```bash
+npm run dev
+```
