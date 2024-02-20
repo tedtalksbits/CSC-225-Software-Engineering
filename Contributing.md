@@ -1,5 +1,7 @@
 # Welcome to Our Project!
 
+If you are an approved contributor, please see the instructions in the [Team Instructions](#team-pr-instructions) section below.
+
 We are thrilled to have you contribute to our project! This README will guide you through creating Pull Requests (PRs) and provide you with our commit message etiquette. Whether you're new to GitHub or a seasoned user, we want to ensure everyone can contribute effectively and efficiently.
 
 ## Getting Started with Pull Requests (PRs)
@@ -66,5 +68,18 @@ When contributing, we like to keep our commit messages clear and meaningful. Her
 - Keep your PRs limited to a single issue. This makes them easier to review and merge.
 - Be as descriptive as possible in your commit messages and PR descriptions.
 - If your PR fixes an open issue, include `closes #<issue-number>` in the PR description.
+
+## Team PR Instructions
+
+If you are a member of the team, please follow these instructions when creating PRs:
+
+1. **Create an Issue**: Before making any changes, create an issue describing the problem or feature you're working on. Then click **'Submit new issue'**.
+   ![create issue](https://i.ibb.co/8DvtmRN/Screenshot-2024-02-19-at-6-16-27-PM.png)
+2. **Click the 'Create a branch' link**: GitHub will automatically create a new branch for you based on the issue number.
+   ![create branch](https://i.ibb.co/kg8t1YZ/Screenshot-2024-02-19-at-6-16-43-PM.png)
+   then:
+   ![copy code snippet](https://i.ibb.co/G5FssDX/Screenshot-2024-02-19-at-6-18-53-PM.png)
+3. **Copy the code snippet provided**: When you create a new issue, GitHub will provide a code snippet to copy. This snippet includes the issue number and a brief description of the issue.
+   ![copy code snippet](https://i.ibb.co/w7CMpMn/Screenshot-2024-02-19-at-6-19-06-PM.png)
 
 Thank you for contributing, and don't hesitate to ask for help if you need it!
